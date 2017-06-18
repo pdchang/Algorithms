@@ -1,2 +1,2 @@
 # CS325
-cs 325 algorithms course work
+CS 325 - Intro to Algorithms Course Work
